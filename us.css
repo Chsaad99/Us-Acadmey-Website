@@ -1,0 +1,194 @@
+#i1 {
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    background-attachment: fixed;
+    margin-right: 15px;
+}
+
+#i2 {
+    width: 100%;
+    opacity: 0, 1;
+
+}
+
+.moons {
+    position: relative;
+}
+
+#image3 {
+    position: absolute;
+    left: 20px;
+    top: 80px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+
+
+.saad {
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    color: rgb(231, 85, 1);
+    text-shadow: 5px 0px 20px rgb(255, 94, 0);
+    font-size: xx-large;
+
+}
+
+#tadow {
+    background-color: rgb(1, 112, 60);
+}
+
+#h1 {
+    text-align: center;
+    color: antiquewhite;
+    text-shadow: 2px 2px 30px rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+
+}
+
+#i3 {
+    height: 500px;
+    width: 550px;
+    margin-left: 100px;
+
+}
+
+#ul1 {
+    float: right;
+    margin-right: 150px;
+    font-size: xx-large;
+    margin-top: 5px;
+}
+
+#l1 {
+    margin-top: 5px;
+}
+
+#l2 {
+    margin-top: 5px;
+}
+
+#l3 {
+    margin-top: 5px;
+}
+
+#l4 {
+    margin-top: 5px;
+}
+
+#l5 {
+    margin-top: 5px;
+}
+
+#l6 {
+    margin-top: 5px;
+}
+
+#l7 {
+    margin-top: 5px;
+}
+
+#l8 {
+    margin-top: 5px;
+}
+
+#ul0 {
+    float: right;
+    margin-right: 130px;
+    font-size: xx-large;
+    margin-top: 50px;
+}
+
+
+#li1 {
+    margin-top: 8px;
+}
+
+#li2 {
+    margin-top: 10px;
+}
+
+#li3 {
+    margin-top: 10px;
+}
+
+#li4 {
+    margin-top: 10px;
+}
+
+#li5 {
+    margin-top: 10px;
+}
+
+#li6 {
+    margin-top: 10px;
+}
+
+#li7 {
+    margin-top: 10px;
+}
+
+
+#ul2 {
+    float: right;
+    font-size: xx-large;
+    margin-right: 130px;
+    margin-top: 50px;
+}
+
+
+#ul3 {
+    float: right;
+    font-size: xx-large;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+#h6 {
+    color: rgb(97, 97, 97);
+    margin-left: 30px;
+}
+
+#ul4 {
+    float: right;
+    font-size: xx-large;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+#ul5 {
+    float: right;
+    font-size: xx-large;
+    margin-right: 150px;
+    margin-top: 30px;
+}
+
+#div7 {
+    height: 150px;
+    background-color: rgb(132, 210, 255);
+}
+
+#logo1 {
+    margin-bottom: 20px;
+    float: right;
+    margin-right: 80px;
+    margin-left: 10px;
+}
+
+#logo2 {
+    float: right;
+    margin-left: 10px;
+}
+
+#logo3 {
+    float: right;
+    margin-left: 10px;
+}
+
+#logo4 {
+    float: right;
+}
